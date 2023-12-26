@@ -1,0 +1,7 @@
+name: ModifyBrushDrop
+version: '${project.version}'
+main: org.hmmbo.modifybrushdrop.ModifyBrushDrop
+api-version: '1.17'
+load: STARTUP
+commands:
+  brushdrop:

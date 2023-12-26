@@ -1,0 +1,4 @@
+#Permission Node
+#   brushdrop.customdrops -> drops custom drops for all blocks
+#   brushdrop.commands -> access to commands
+LootTable:
